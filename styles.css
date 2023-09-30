@@ -1,0 +1,15 @@
+h1 { color:#cccccc;
+border: 1px solid black;
+
+}
+body{
+    background-color: #202123;
+    color:white;
+}
+.educationtable{
+    margin: 40px;
+}
+    .educationtable td,
+    .educationtable th{
+        padding: 10px 20px 10px 20px ;
+    }
